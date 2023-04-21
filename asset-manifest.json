@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "https://vasya2108.github.io/csb-6lfmoy/static/css/main.9134614f.css",
+    "main.js": "https://vasya2108.github.io/csb-6lfmoy/static/js/main.6fb05e75.js",
+    "static/media/farmer.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/farmer.db70fa9716b37e8b89d0f029546091df.svg",
+    "static/media/garbage.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/garbage.bfc5dd9e0b18f7155f969fe9ed16941e.svg",
+    "static/media/logo.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/logo.4f2a5cafb26b3276c0057c5b8712d429.svg",
+    "static/media/sprout.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/sprout.f0b6c1e867b51302efc90ad2e3754d24.svg",
+    "static/media/plate.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/plate.9f700a8a251c6539920d1c2588a7386c.svg",
+    "static/media/no-meat.svg": "https://vasya2108.github.io/csb-6lfmoy/static/media/no-meat.3e1418904d53093275a29bbe77fd5a3c.svg",
+    "index.html": "https://vasya2108.github.io/csb-6lfmoy/index.html",
+    "main.9134614f.css.map": "https://vasya2108.github.io/csb-6lfmoy/static/css/main.9134614f.css.map",
+    "main.6fb05e75.js.map": "https://vasya2108.github.io/csb-6lfmoy/static/js/main.6fb05e75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9134614f.css",
+    "static/js/main.6fb05e75.js"
+  ]
+}
